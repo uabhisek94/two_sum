@@ -1,3 +1,8 @@
+"""
+This program checks for two numbers that add up to be the target
+from your own list and return you those numbers
+"""
+
 list_count = int(input('Enter how many numbers you want to count: '))
 target = int(input('Enter your target number: '))
 list_counter = 0
